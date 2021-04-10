@@ -157,6 +157,7 @@ Here's a [link to my video result](./project_video_output.mp4)
 ### Discussion
 
 #### 1. problems and issues
+The lane-finding will fail when the road have cracks and could be mistaken as a lane-line (see 'challenge_video.mp4') 
+Here's a [link to my video result](./project_challenge_video_output.mp4)
 
-
-I think this algorithm will fail in highly curved lanes that will appear at the top of the image
+As a fututre work  we can use deep learning to segment the road and lane-lines instead of using classical ways of image processing techniques.
